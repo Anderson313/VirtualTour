@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Publico Headline";
+   src: url("fonts/PublicoHeadline-Italic.woff") format("woff"), url("fonts/PublicoHeadline-Italic.eot") format("embedded-opentype"), url("fonts/PublicoHeadline-Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Publico Headline";
+   src: url("fonts/PublicoHeadline-Light.woff") format("woff"), url("fonts/PublicoHeadline-Light.eot") format("embedded-opentype"), url("fonts/PublicoHeadline-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Publico Headline";
+   src: url("fonts/PublicoHeadline-Medium.woff") format("woff"), url("fonts/PublicoHeadline-Medium.eot") format("embedded-opentype"), url("fonts/PublicoHeadline-Medium.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Publico Headline";
+   src: url("fonts/PublicoHeadline-Roman.woff") format("woff"), url("fonts/PublicoHeadline-Roman.eot") format("embedded-opentype"), url("fonts/PublicoHeadline-Roman.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}

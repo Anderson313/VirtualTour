@@ -1,0 +1,120 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_02477FF6_1541_C637_4198_BA169749201C.source = https://inspire.rcs.ac.uk/enrol/index.php?id=4489
+LinkBehaviour_0DCD6117_1546_3BF6_41B2_9E1B7509B37E.source = https://portal.rcs.ac.uk/induction/programme-information/
+LinkBehaviour_0D12BDC3_1542_4A4E_41B1_10AC50677D49.source = https://portal.rcs.ac.uk/matriculation/
+LinkBehaviour_0D531A96_1546_4EF6_41A2_4735F46B1803.source = https://rcs.metacompliance.com/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_F34835D0_E1D9_736F_41E7_F31F11C0A701.text = Card Collection and Finance
+HotspotPanoramaOverlayTextImage_F5CAA68D_E159_11F7_41E1_FFF3539D3D17.text = Card Collection and Finance
+HotspotPanoramaOverlayTextImage_F0AEA54C_E159_1374_41C5_58C90AB1DA5D.text = Matriculation
+HotspotPanoramaOverlayTextImage_04171B7B_1546_4E3E_41A0_7AE4FBB07C55.text = Reception
+HotspotPanoramaOverlayTextImage_F1C57CD3_E159_116E_41D5_91C7DD22F42D.text = This way to Matriculation
+HotspotPanoramaOverlayTextImage_1B8F04DA_1542_7A79_4177_4280E8211CEA.text = Welcome to the Royal Conservatoire of Scotland
+HotspotPanoramaOverlayTextImage_1774F8BA_053D_E121_4194_89A370192251.text = card collection and finance
+HotspotPanoramaOverlayTextImage_15506712_0533_E0E1_4193_F6698AA79EA0.text = matriculate here first
+
+## Media
+
+### Image
+imlevel_06914468_1542_DA5A_41A1_FA943BEB977F.url = media/panorama_DB0B18FD_D0AC_37BB_41B8_440FC28B4D67_HS_i045ebmi_en.webp
+imlevel_03919799_154E_46FA_4182_342008CE01F7.url = media/panorama_DB0CE92C_D0AC_3659_41E0_7E87CFB99223_HS_3s8hdn4s_en.webp
+imlevel_033E4630_154E_59CA_41A1_BD54760D9C37.url = media/panorama_DB0D1F9D_D0AC_0A7B_41C1_D99F9821A716_HS_e5fr2v9n_en.webp
+imlevel_033D05CD_154E_5A5A_4198_87D507A6BA9F.url = media/panorama_DB0D1F9D_D0AC_0A7B_41C1_D99F9821A716_HS_euyl1qsd_en.webp
+imlevel_F3FD4E93_E1EB_7110_41EB_39B52C3A4C70.url = media/panorama_DB0DDB56_D0AC_0AC9_41E3_2BD2CB91A8DE_HS_66pgaain_en.webp
+imlevel_0334D6AC_154E_46DA_4193_5DCE20D279CE.url = media/panorama_DB0DDB56_D0AC_0AC9_41E3_2BD2CB91A8DE_HS_6lxn2jou_en.webp
+imlevel_0690B4C0_1542_DA4A_41A9_1041926C8AAC.url = media/panorama_DB0E24E5_D0AC_1FCA_41E1_1D43186BCD13_HS_w620ianw_en.webp
+imlevel_064AD3B8_1542_DE39_4173_0C3EED7B924F.url = media/panorama_DC4C6C35_D0AC_0E4B_41A1_D44CF7145DBB_HS_feq8u2hb_en.webp
+
+### Title
+panorama_DC4C6C35_D0AC_0E4B_41A1_D44CF7145DBB.label = Matric VT 360-1
+panorama_DB0DDB56_D0AC_0AC9_41E3_2BD2CB91A8DE.label = Matric VT 360-10
+panorama_DB0D06BC_D0AC_7BB9_41C3_6AE0ED8B96DF.label = Matric VT 360-11
+panorama_DB0D421F_D0AC_1A77_41E7_7F39BA73DE24.label = Matric VT 360-12
+panorama_DB0CDD82_D0AC_0E49_41D7_47C8575D9C54.label = Matric VT 360-13
+panorama_DB0CE92C_D0AC_3659_41E0_7E87CFB99223.label = Matric VT 360-14
+panorama_DB0CC4A0_D0AC_1E49_41A8_417B3A01015A.label = Matric VT 360-15
+panorama_DB0CEE84_D0AC_0A49_41DD_738B4230FADB.label = Matric VT 360-16
+panorama_DB135828_D0B3_F659_41CE_B17F43D5870A.label = Matric VT 360-17
+panorama_DB0B18FD_D0AC_37BB_41B8_440FC28B4D67.label = Matric VT 360-3
+panorama_DB0E24E5_D0AC_1FCA_41E1_1D43186BCD13.label = Matric VT 360-4
+panorama_DB0D8C55_D0AC_0ECB_41C4_70A35B54AEE7.label = Matric VT 360-6
+panorama_DB0DC7EA_D0AC_19DE_41E5_32E6F82423FB.label = Matric VT 360-7
+panorama_DB0DF3C7_D0AC_39D7_41E9_B5D1AA6A1DCE.label = Matric VT 360-8
+panorama_DB0D1F9D_D0AC_0A7B_41C1_D99F9821A716.label = Matric VT 360-9
+
+## Popup
+
+### Body
+htmlText_F125AFAF_E159_0F36_41D2_0FED6B47218B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline Light';">This is the Reception Desk, home of Client Services, who are here to assist you.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E12BB5B4_F6EE_943B_41B3_36AA8F5D35E1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Collect your student card here</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E0700617_F6E9_97E3_41E9_390B5C925C1F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Collect your student card here</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E0A9D977_F6A9_9C1D_41D6_425D2F33907A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Collect your student card here</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E0AF0B5B_F6E9_FC6D_41D0_FAFA77A69C4B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Information desk for international students</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E110F3A7_F6DA_6CD8_41EA_19818735DB51.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Information desk for international students</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E06B2204_F6F9_AFE3_41DC_276027777BDE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Please wait here and a member of staff will call you when ready</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E0957E8F_F6EA_B4E4_41EC_873DA81E3BDA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Please wait here and a member of staff will call you when ready</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E1783BF3_F6EB_BC3C_41C5_0A1ED1E2F5FF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Please wait here and a member of staff will call you when ready</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E0F2F424_F6EE_ABDB_41E9_B134A2A2FCD1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Please wait here and a member of staff will call you when ready</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E3ACA5B3_F6A6_B43A_41C5_6BC71B229F09.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Please wait here and a member of staff will call you when ready</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E05ABBD5_F6DE_FC79_41C2_4EF0202C3B31.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Staff will assist in your matriculation here</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E02CA420_F6DA_6BD9_41D4_5005417120F0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">Staff will assist in your matriculation here</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E13141F3_F6AB_AC17_41BA_7218B2286592.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">The Finance Department will be available to assist you in any finance questions here.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E051CB54_F6E6_BC66_41D7_78061C5229F6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">The Finance Department will be available to assist you in any finance questions here</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_E0D20EE9_F6E9_942C_41A6_E85E459E6F61.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Publico Headline';">The Finance Department will be available to assist you in any finance questions here</SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_E12985B4_F6EE_943B_41E9_E6B83C0E9152.title = Card Collection Point
+window_E0A9F976_F6A9_9C1C_417B_C6E51A895B11.title = Card Collection Point
+window_E00E3616_F6E9_97E5_41DB_F5687748C3F8.title = Card Collection Point
+window_E13321F3_F6AB_AC17_41A6_E0F7C45FA1B5.title = Finance Information Desk
+window_E0D3EEE8_F6E9_942D_41C8_BE978CD87FE6.title = Finance Information Desk
+window_E06E3B53_F6E6_BC62_41CC_3A5BC8B20898.title = Finance Information Desk
+window_E112E3A7_F6DA_6CD8_41E1_8E965BCD76EB.title = International Student Information
+window_E0AD1B5B_F6E9_FC6D_41D4_36DB26847075.title = International Student Information
+window_E05B4BD5_F6DE_FC79_41ED_95A3D8612DAE.title = Matriculation Desks
+window_E02ED420_F6DA_6BD9_41DF_D0EF91147FFD.title = Matriculation Desks
+window_F1258FAF_E159_0F36_41DC_F09F514AA8B1.title = Reception Desk
+window_E3AA95B3_F6A6_B43A_41D4_5FE5677E064A.title = Waiting Area
+window_E0975E8F_F6EA_B4E4_41D8_A0FA74B10950.title = Waiting Area
+window_E17A2BF2_F6EB_BC3C_41EE_01E5F9EF898A.title = Waiting Area
+window_E0F0D424_F6EE_ABDB_41E1_A123DA6C2A24.title = Waiting Area
+window_E0691204_F6F9_AFE3_41D5_C3FBDE22364D.title = Waiting Area
+
+## Skin
+
+### Button
+Button_FA3FB72F_F559_95D2_41C9_B424FC452302.label = Complete your online Matriculation form
+Button_E51C35B0_F56E_74CF_41D6_15BF6A8E83F1.label = Cyber Security Training
+Button_FACC7451_F567_9470_41E7_B63E0437C758.label = Programme Information
+Button_0311E080_1543_DACA_41A9_54B7DE8E04AA.label = Student Induction Launch Pad
+
+### Image
+Image_E32880B6_F6BA_6C0D_41E9_411F31E6DA54.url = skin/Image_E32880B6_F6BA_6C0D_41E9_411F31E6DA54_en.png
+
+### Label
+Label_E1218E7D_F5E9_942D_41EA_30D8A8ED3D87.text = Important Information
+
+### Multiline Text
+HTMLText_02235BF7_1541_CE36_4176_68A1FF060429.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Publico Headline';">Attend in person Matriculation</SPAN></SPAN></DIV><DIV STYLE="line-height:100%;text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;font-family:'Publico Headline';">22nd of September with your photo ID (such as a passport or driving license)</SPAN><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Publico Headline';"> </SPAN></SPAN></DIV></div>
+
+### Tooltip
+Button_0311E080_1543_DACA_41A9_54B7DE8E04AA.toolTip = Please access The Student Induction Launch Pad module, on Moodle, prior to attending your in-person IT Induction. This module will take you step-by-step through connecting to each of the systems that you will use as a student at the Conservatoire and explain what they are. you may return to this module at any time to review how to access each of the systems. 
+Button_FACC7451_F567_9470_41E7_B63E0437C758.toolTip = Please click for your programme specific timetable
+Button_E51C35B0_F56E_74CF_41D6_15BF6A8E83F1.toolTip = Please ensure you complete the following online induction session and Cyber security training prior to starting on the 22nd of September failure to complete this prior to this date will delay you receiving your student card and matriculating. \
+ \
+Use your student email account to sign in 
+Button_FA3FB72F_F559_95D2_41C9_B424FC452302.toolTip = Please ensure you have completed this and uploaded your photograph by 5pm on Monday the 8th of September (if this has not been completed by this date there will be a delay in your student card being created) 
+
+## Tour
+
+### Description
+
+### Title
+tour.name = RCS Matriculation 2025
